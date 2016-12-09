@@ -1,2 +1,2 @@
 # luci-app-vlmcsd
-LuCI app for [openwrt-vlmcsd](https://github.com/mchome/openwrt-vlmcsd "")
+LuCI app for [lede-vlmcsd](https://github.com/mchome/openwrt-vlmcsd "")
